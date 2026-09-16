@@ -86,10 +86,10 @@ Data Analytics Portfolio Project — 2026
 ![Technology Role Demand](dashboard_01_role_demand.png)
 
 ### 2. Salary by Role
-![Salary by Role](dashboard_02_salary_by_role.png)
+![Salary by Role](dashboard_02_salary_by_role(1).png)
 
 ### 3. Job Locations
 ![Job Locations](dashboard_03_location.png)
 
 ### 4. Work Arrangement
-![Work Arrangement](dashboard_04_work_type.png)
+![Work Arrangement](dashboard_04_work_type(1).png)
