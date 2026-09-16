@@ -1,0 +1,181 @@
+Job_ID,Role,Location,Work_Type,Experience,Qualification,Primary_Skills,Monthly_Salary_ZAR,Annual_Salary_ZAR
+JOB001,IT Support Technician,Remote,Remote,1-2 years,Degree,"Windows, Networking, Active Directory",13500,162000
+JOB002,Data Analyst,Remote,Remote,1-2 years,Degree,"Excel, SQL, Power BI",17000,204000
+JOB003,Data Analyst,Remote,Remote,2-3 years,Diploma,"Excel, SQL, Power BI",16000,192000
+JOB004,IT Support Technician,Cape Town,Hybrid,0-1 years,Diploma,"Windows, Networking, Active Directory",13000,156000
+JOB005,Data Analyst,Johannesburg,On-site,0-1 years,Degree,"Excel, SQL, Power BI",15500,186000
+JOB006,Junior Software Developer,Johannesburg,On-site,1-2 years,Diploma,"Python, Git, SQL",23000,276000
+JOB007,Systems Analyst,Remote,Remote,2-3 years,Diploma,"SQL, Systems Analysis, Excel",22000,264000
+JOB008,Business Analyst,Johannesburg,Hybrid,1-2 years,Certificate,"Excel, SQL, Requirements Analysis",19000,228000
+JOB009,IT Support Technician,Cape Town,Hybrid,0-1 years,Degree,"Windows, Networking, Active Directory",11000,132000
+JOB010,Data Engineer,Remote,Remote,2-3 years,Degree,"SQL, Python, ETL",28500,342000
+JOB011,Systems Analyst,Johannesburg,On-site,0-1 years,Certificate,"SQL, Systems Analysis, Excel",17000,204000
+JOB012,BI Analyst,Pretoria,On-site,0-1 years,Degree,"Power BI, SQL, Excel",17000,204000
+JOB013,Data Engineer,Johannesburg,Hybrid,3-5 years,Degree,"SQL, Python, ETL",30500,366000
+JOB014,Data Engineer,Johannesburg,Hybrid,0-1 years,Certificate,"SQL, Python, ETL",32000,384000
+JOB015,Junior Software Developer,Johannesburg,Hybrid,0-1 years,Diploma,"Python, Git, SQL",25000,300000
+JOB016,BI Analyst,Pretoria,Hybrid,0-1 years,Degree,"Power BI, SQL, Excel",20000,240000
+JOB017,Junior Software Developer,Durban,On-site,1-2 years,Degree,"Python, Git, SQL",19000,228000
+JOB018,Data Analyst,Cape Town,Hybrid,0-1 years,Degree,"Excel, SQL, Power BI",17500,210000
+JOB019,IT Support Technician,Pretoria,On-site,2-3 years,Diploma,"Windows, Networking, Active Directory",13500,162000
+JOB020,Systems Analyst,Remote,Remote,1-2 years,Degree,"SQL, Systems Analysis, Excel",19000,228000
+JOB021,Data Engineer,Johannesburg,On-site,2-3 years,Degree,"SQL, Python, ETL",24000,288000
+JOB022,Business Analyst,Remote,Remote,2-3 years,Certificate,"Excel, SQL, Requirements Analysis",20500,246000
+JOB023,Junior Software Developer,Pretoria,On-site,0-1 years,Certificate,"Python, Git, SQL",22500,270000
+JOB024,Junior Software Developer,Durban,Hybrid,0-1 years,Degree,"Python, Git, SQL",20000,240000
+JOB025,IT Support Technician,Pretoria,On-site,0-1 years,Diploma,"Windows, Networking, Active Directory",14500,174000
+JOB026,Data Analyst,Johannesburg,On-site,2-3 years,Diploma,"Excel, SQL, Power BI",16500,198000
+JOB027,Business Analyst,Remote,Remote,0-1 years,Degree,"Excel, SQL, Requirements Analysis",18500,222000
+JOB028,Cybersecurity Analyst,Pretoria,On-site,1-2 years,Degree,"Cybersecurity, SIEM, Networking",26000,312000
+JOB029,Data Analyst,Remote,Remote,0-1 years,Diploma,"Excel, SQL, Power BI",18000,216000
+JOB030,Cybersecurity Analyst,Johannesburg,Hybrid,1-2 years,Diploma,"Cybersecurity, SIEM, Networking",20500,246000
+JOB031,Data Analyst,Durban,On-site,0-1 years,Degree,"Excel, SQL, Power BI",16500,198000
+JOB032,Systems Analyst,Remote,Remote,0-1 years,Degree,"SQL, Systems Analysis, Excel",17500,210000
+JOB033,Data Engineer,Cape Town,On-site,1-2 years,Diploma,"SQL, Python, ETL",29000,348000
+JOB034,IT Support Technician,Durban,Hybrid,2-3 years,Degree,"Windows, Networking, Active Directory",16500,198000
+JOB035,Cybersecurity Analyst,Johannesburg,On-site,0-1 years,Degree,"Cybersecurity, SIEM, Networking",24000,288000
+JOB036,Data Analyst,Cape Town,On-site,1-2 years,Degree,"Excel, SQL, Power BI",15500,186000
+JOB037,Cybersecurity Analyst,Johannesburg,Hybrid,0-1 years,Degree,"Cybersecurity, SIEM, Networking",26500,318000
+JOB038,Junior Software Developer,Johannesburg,On-site,0-1 years,Diploma,"Python, Git, SQL",22500,270000
+JOB039,Systems Analyst,Pretoria,Hybrid,2-3 years,Degree,"SQL, Systems Analysis, Excel",21000,252000
+JOB040,Business Analyst,Johannesburg,On-site,1-2 years,Diploma,"Excel, SQL, Requirements Analysis",27500,330000
+JOB041,Cybersecurity Analyst,Johannesburg,On-site,3-5 years,Degree,"Cybersecurity, SIEM, Networking",22000,264000
+JOB042,Systems Analyst,Pretoria,Hybrid,3-5 years,Degree,"SQL, Systems Analysis, Excel",23500,282000
+JOB043,IT Support Technician,Pretoria,Hybrid,2-3 years,Diploma,"Windows, Networking, Active Directory",15000,180000
+JOB044,Cybersecurity Analyst,Cape Town,Hybrid,0-1 years,Degree,"Cybersecurity, SIEM, Networking",17500,210000
+JOB045,Data Analyst,Cape Town,On-site,2-3 years,Degree,"Excel, SQL, Power BI",21500,258000
+JOB046,IT Support Technician,Remote,Remote,2-3 years,Degree,"Windows, Networking, Active Directory",17000,204000
+JOB047,BI Analyst,Cape Town,Hybrid,1-2 years,Degree,"Power BI, SQL, Excel",29500,354000
+JOB048,BI Analyst,Johannesburg,Hybrid,0-1 years,Certificate,"Power BI, SQL, Excel",28000,336000
+JOB049,Data Analyst,Pretoria,On-site,1-2 years,Diploma,"Excel, SQL, Power BI",16500,198000
+JOB050,BI Analyst,Pretoria,Hybrid,0-1 years,Degree,"Power BI, SQL, Excel",24000,288000
+JOB051,IT Support Technician,Cape Town,Hybrid,0-1 years,Certificate,"Windows, Networking, Active Directory",20500,246000
+JOB052,Cybersecurity Analyst,Remote,Remote,1-2 years,Diploma,"Cybersecurity, SIEM, Networking",30500,366000
+JOB053,Data Engineer,Johannesburg,On-site,0-1 years,Certificate,"SQL, Python, ETL",30500,366000
+JOB054,Data Analyst,Johannesburg,Hybrid,0-1 years,Degree,"Excel, SQL, Power BI",20500,246000
+JOB055,Cybersecurity Analyst,Johannesburg,On-site,3-5 years,Degree,"Cybersecurity, SIEM, Networking",31500,378000
+JOB056,IT Support Technician,Pretoria,On-site,2-3 years,Certificate,"Windows, Networking, Active Directory",17000,204000
+JOB057,Data Analyst,Johannesburg,On-site,2-3 years,Degree,"Excel, SQL, Power BI",14500,174000
+JOB058,Business Analyst,Johannesburg,Hybrid,0-1 years,Diploma,"Excel, SQL, Requirements Analysis",21500,258000
+JOB059,Junior Software Developer,Johannesburg,Hybrid,0-1 years,Degree,"Python, Git, SQL",25000,300000
+JOB060,Data Analyst,Johannesburg,Hybrid,1-2 years,Certificate,"Excel, SQL, Power BI",18000,216000
+JOB061,Systems Analyst,Cape Town,Hybrid,0-1 years,Degree,"SQL, Systems Analysis, Excel",29000,348000
+JOB062,Business Analyst,Remote,Remote,2-3 years,Diploma,"Excel, SQL, Requirements Analysis",14000,168000
+JOB063,Data Analyst,Johannesburg,On-site,0-1 years,Certificate,"Excel, SQL, Power BI",16000,192000
+JOB064,BI Analyst,Johannesburg,On-site,2-3 years,Diploma,"Power BI, SQL, Excel",24500,294000
+JOB065,Cybersecurity Analyst,Cape Town,On-site,2-3 years,Degree,"Cybersecurity, SIEM, Networking",20000,240000
+JOB066,Data Engineer,Remote,Remote,3-5 years,Degree,"SQL, Python, ETL",32000,384000
+JOB067,IT Support Technician,Durban,Hybrid,0-1 years,Degree,"Windows, Networking, Active Directory",13500,162000
+JOB068,Data Engineer,Johannesburg,Hybrid,2-3 years,Degree,"SQL, Python, ETL",33500,402000
+JOB069,IT Support Technician,Remote,Remote,0-1 years,Certificate,"Windows, Networking, Active Directory",15000,180000
+JOB070,Systems Analyst,Cape Town,On-site,1-2 years,Degree,"SQL, Systems Analysis, Excel",20500,246000
+JOB071,IT Support Technician,Cape Town,On-site,2-3 years,Degree,"Windows, Networking, Active Directory",12500,150000
+JOB072,Business Analyst,Remote,Remote,0-1 years,Certificate,"Excel, SQL, Requirements Analysis",21500,258000
+JOB073,Data Analyst,Durban,On-site,1-2 years,Certificate,"Excel, SQL, Power BI",18500,222000
+JOB074,BI Analyst,Durban,Hybrid,0-1 years,Certificate,"Power BI, SQL, Excel",21500,258000
+JOB075,IT Support Technician,Pretoria,Hybrid,2-3 years,Degree,"Windows, Networking, Active Directory",12500,150000
+JOB076,Junior Software Developer,Pretoria,On-site,2-3 years,Certificate,"Python, Git, SQL",20000,240000
+JOB077,Data Analyst,Pretoria,Hybrid,0-1 years,Certificate,"Excel, SQL, Power BI",19000,228000
+JOB078,Junior Software Developer,Remote,Remote,0-1 years,Diploma,"Python, Git, SQL",17500,210000
+JOB079,BI Analyst,Johannesburg,Hybrid,3-5 years,Certificate,"Power BI, SQL, Excel",24000,288000
+JOB080,Data Analyst,Cape Town,Hybrid,3-5 years,Degree,"Excel, SQL, Power BI",21000,252000
+JOB081,Cybersecurity Analyst,Pretoria,Hybrid,1-2 years,Degree,"Cybersecurity, SIEM, Networking",22500,270000
+JOB082,IT Support Technician,Johannesburg,Hybrid,1-2 years,Diploma,"Windows, Networking, Active Directory",17000,204000
+JOB083,Data Analyst,Remote,Remote,3-5 years,Degree,"Excel, SQL, Power BI",11500,138000
+JOB084,Data Engineer,Durban,Hybrid,0-1 years,Degree,"SQL, Python, ETL",29500,354000
+JOB085,Systems Analyst,Durban,Hybrid,1-2 years,Degree,"SQL, Systems Analysis, Excel",25000,300000
+JOB086,Data Analyst,Cape Town,Hybrid,0-1 years,Degree,"Excel, SQL, Power BI",16000,192000
+JOB087,BI Analyst,Pretoria,Hybrid,0-1 years,Diploma,"Power BI, SQL, Excel",24000,288000
+JOB088,Systems Analyst,Remote,Remote,0-1 years,Degree,"SQL, Systems Analysis, Excel",21000,252000
+JOB089,Data Analyst,Remote,Remote,1-2 years,Diploma,"Excel, SQL, Power BI",21000,252000
+JOB090,IT Support Technician,Johannesburg,Hybrid,1-2 years,Degree,"Windows, Networking, Active Directory",18500,222000
+JOB091,Junior Software Developer,Remote,Remote,1-2 years,Degree,"Python, Git, SQL",20000,240000
+JOB092,Data Analyst,Johannesburg,Hybrid,2-3 years,Degree,"Excel, SQL, Power BI",21000,252000
+JOB093,IT Support Technician,Johannesburg,On-site,0-1 years,Diploma,"Windows, Networking, Active Directory",9500,114000
+JOB094,BI Analyst,Pretoria,On-site,1-2 years,Degree,"Power BI, SQL, Excel",30000,360000
+JOB095,Junior Software Developer,Remote,Remote,3-5 years,Certificate,"Python, Git, SQL",20500,246000
+JOB096,IT Support Technician,Pretoria,On-site,3-5 years,Degree,"Windows, Networking, Active Directory",16500,198000
+JOB097,Junior Software Developer,Johannesburg,On-site,0-1 years,Certificate,"Python, Git, SQL",22000,264000
+JOB098,IT Support Technician,Remote,Remote,1-2 years,Degree,"Windows, Networking, Active Directory",12000,144000
+JOB099,Data Analyst,Johannesburg,On-site,0-1 years,Diploma,"Excel, SQL, Power BI",15000,180000
+JOB100,Data Analyst,Pretoria,On-site,0-1 years,Diploma,"Excel, SQL, Power BI",16000,192000
+JOB101,Cybersecurity Analyst,Johannesburg,Hybrid,2-3 years,Degree,"Cybersecurity, SIEM, Networking",26500,318000
+JOB102,Data Analyst,Johannesburg,Hybrid,0-1 years,Degree,"Excel, SQL, Power BI",15500,186000
+JOB103,IT Support Technician,Pretoria,Hybrid,1-2 years,Certificate,"Windows, Networking, Active Directory",16500,198000
+JOB104,Junior Software Developer,Cape Town,On-site,0-1 years,Degree,"Python, Git, SQL",17000,204000
+JOB105,IT Support Technician,Johannesburg,On-site,0-1 years,Certificate,"Windows, Networking, Active Directory",11500,138000
+JOB106,Data Analyst,Remote,Remote,1-2 years,Degree,"Excel, SQL, Power BI",15500,186000
+JOB107,Data Engineer,Pretoria,On-site,0-1 years,Degree,"SQL, Python, ETL",35500,426000
+JOB108,Data Analyst,Johannesburg,Hybrid,0-1 years,Degree,"Excel, SQL, Power BI",19500,234000
+JOB109,IT Support Technician,Remote,Remote,1-2 years,Diploma,"Windows, Networking, Active Directory",12500,150000
+JOB110,Data Analyst,Johannesburg,On-site,0-1 years,Degree,"Excel, SQL, Power BI",16000,192000
+JOB111,Junior Software Developer,Pretoria,Hybrid,3-5 years,Certificate,"Python, Git, SQL",22000,264000
+JOB112,Data Engineer,Johannesburg,Hybrid,0-1 years,Degree,"SQL, Python, ETL",27500,330000
+JOB113,Junior Software Developer,Cape Town,On-site,0-1 years,Degree,"Python, Git, SQL",18500,222000
+JOB114,Business Analyst,Johannesburg,On-site,0-1 years,Degree,"Excel, SQL, Requirements Analysis",18000,216000
+JOB115,Junior Software Developer,Johannesburg,On-site,1-2 years,Degree,"Python, Git, SQL",20000,240000
+JOB116,Data Analyst,Remote,Remote,0-1 years,Degree,"Excel, SQL, Power BI",16500,198000
+JOB117,IT Support Technician,Durban,On-site,2-3 years,Degree,"Windows, Networking, Active Directory",9000,108000
+JOB118,Systems Analyst,Remote,Remote,3-5 years,Certificate,"SQL, Systems Analysis, Excel",17500,210000
+JOB119,Cybersecurity Analyst,Remote,Remote,0-1 years,Certificate,"Cybersecurity, SIEM, Networking",25000,300000
+JOB120,BI Analyst,Johannesburg,On-site,2-3 years,Diploma,"Power BI, SQL, Excel",30500,366000
+JOB121,Data Analyst,Remote,Remote,1-2 years,Degree,"Excel, SQL, Power BI",20500,246000
+JOB122,Business Analyst,Remote,Remote,0-1 years,Diploma,"Excel, SQL, Requirements Analysis",20500,246000
+JOB123,Business Analyst,Johannesburg,On-site,1-2 years,Degree,"Excel, SQL, Requirements Analysis",23000,276000
+JOB124,Junior Software Developer,Remote,Remote,1-2 years,Certificate,"Python, Git, SQL",20000,240000
+JOB125,Systems Analyst,Cape Town,On-site,0-1 years,Certificate,"SQL, Systems Analysis, Excel",22500,270000
+JOB126,BI Analyst,Remote,Remote,0-1 years,Diploma,"Power BI, SQL, Excel",29000,348000
+JOB127,IT Support Technician,Durban,On-site,0-1 years,Degree,"Windows, Networking, Active Directory",15500,186000
+JOB128,BI Analyst,Johannesburg,On-site,2-3 years,Certificate,"Power BI, SQL, Excel",25000,300000
+JOB129,Data Engineer,Johannesburg,Hybrid,0-1 years,Degree,"SQL, Python, ETL",32000,384000
+JOB130,Junior Software Developer,Johannesburg,Hybrid,0-1 years,Diploma,"Python, Git, SQL",26000,312000
+JOB131,Junior Software Developer,Pretoria,On-site,1-2 years,Degree,"Python, Git, SQL",22000,264000
+JOB132,Junior Software Developer,Johannesburg,Hybrid,2-3 years,Degree,"Python, Git, SQL",16500,198000
+JOB133,Cybersecurity Analyst,Remote,Remote,1-2 years,Diploma,"Cybersecurity, SIEM, Networking",30500,366000
+JOB134,Business Analyst,Durban,On-site,3-5 years,Degree,"Excel, SQL, Requirements Analysis",27000,324000
+JOB135,Data Analyst,Remote,Remote,2-3 years,Certificate,"Excel, SQL, Power BI",26000,312000
+JOB136,Business Analyst,Johannesburg,On-site,0-1 years,Degree,"Excel, SQL, Requirements Analysis",24000,288000
+JOB137,IT Support Technician,Pretoria,Hybrid,1-2 years,Degree,"Windows, Networking, Active Directory",11000,132000
+JOB138,Business Analyst,Johannesburg,On-site,1-2 years,Certificate,"Excel, SQL, Requirements Analysis",16500,198000
+JOB139,Business Analyst,Pretoria,On-site,2-3 years,Diploma,"Excel, SQL, Requirements Analysis",29000,348000
+JOB140,Cybersecurity Analyst,Johannesburg,On-site,3-5 years,Certificate,"Cybersecurity, SIEM, Networking",27500,330000
+JOB141,Data Analyst,Remote,Remote,1-2 years,Degree,"Excel, SQL, Power BI",18000,216000
+JOB142,IT Support Technician,Remote,Remote,0-1 years,Diploma,"Windows, Networking, Active Directory",14000,168000
+JOB143,Data Analyst,Pretoria,On-site,1-2 years,Certificate,"Excel, SQL, Power BI",17000,204000
+JOB144,Business Analyst,Pretoria,On-site,1-2 years,Diploma,"Excel, SQL, Requirements Analysis",27500,330000
+JOB145,BI Analyst,Remote,Remote,0-1 years,Diploma,"Power BI, SQL, Excel",19000,228000
+JOB146,Data Analyst,Johannesburg,On-site,1-2 years,Degree,"Excel, SQL, Power BI",23500,282000
+JOB147,IT Support Technician,Johannesburg,On-site,1-2 years,Certificate,"Windows, Networking, Active Directory",14500,174000
+JOB148,Cybersecurity Analyst,Johannesburg,Hybrid,0-1 years,Diploma,"Cybersecurity, SIEM, Networking",22000,264000
+JOB149,BI Analyst,Remote,Remote,0-1 years,Degree,"Power BI, SQL, Excel",21000,252000
+JOB150,BI Analyst,Johannesburg,On-site,0-1 years,Diploma,"Power BI, SQL, Excel",19500,234000
+JOB151,Data Analyst,Cape Town,On-site,0-1 years,Degree,"Excel, SQL, Power BI",16000,192000
+JOB152,IT Support Technician,Cape Town,On-site,0-1 years,Degree,"Windows, Networking, Active Directory",17000,204000
+JOB153,Junior Software Developer,Pretoria,Hybrid,0-1 years,Degree,"Python, Git, SQL",18500,222000
+JOB154,Business Analyst,Remote,Remote,2-3 years,Degree,"Excel, SQL, Requirements Analysis",23500,282000
+JOB155,Data Analyst,Johannesburg,Hybrid,1-2 years,Degree,"Excel, SQL, Power BI",15500,186000
+JOB156,Systems Analyst,Cape Town,On-site,0-1 years,Diploma,"SQL, Systems Analysis, Excel",19000,228000
+JOB157,BI Analyst,Johannesburg,Hybrid,1-2 years,Diploma,"Power BI, SQL, Excel",32500,390000
+JOB158,IT Support Technician,Johannesburg,Hybrid,0-1 years,Degree,"Windows, Networking, Active Directory",16000,192000
+JOB159,Junior Software Developer,Cape Town,On-site,1-2 years,Diploma,"Python, Git, SQL",20000,240000
+JOB160,Junior Software Developer,Johannesburg,On-site,0-1 years,Degree,"Python, Git, SQL",24000,288000
+JOB161,Junior Software Developer,Johannesburg,On-site,0-1 years,Diploma,"Python, Git, SQL",26000,312000
+JOB162,Junior Software Developer,Pretoria,Hybrid,1-2 years,Degree,"Python, Git, SQL",17500,210000
+JOB163,IT Support Technician,Johannesburg,Hybrid,0-1 years,Degree,"Windows, Networking, Active Directory",14000,168000
+JOB164,IT Support Technician,Durban,Hybrid,0-1 years,Certificate,"Windows, Networking, Active Directory",12500,150000
+JOB165,Business Analyst,Durban,Hybrid,0-1 years,Diploma,"Excel, SQL, Requirements Analysis",23500,282000
+JOB166,IT Support Technician,Cape Town,Hybrid,0-1 years,Certificate,"Windows, Networking, Active Directory",15500,186000
+JOB167,Data Analyst,Remote,Remote,0-1 years,Diploma,"Excel, SQL, Power BI",21000,252000
+JOB168,Cybersecurity Analyst,Remote,Remote,1-2 years,Degree,"Cybersecurity, SIEM, Networking",23000,276000
+JOB169,BI Analyst,Johannesburg,On-site,1-2 years,Diploma,"Power BI, SQL, Excel",27500,330000
+JOB170,Cybersecurity Analyst,Johannesburg,Hybrid,3-5 years,Degree,"Cybersecurity, SIEM, Networking",23500,282000
+JOB171,Business Analyst,Remote,Remote,2-3 years,Diploma,"Excel, SQL, Requirements Analysis",16000,192000
+JOB172,Data Analyst,Johannesburg,Hybrid,1-2 years,Diploma,"Excel, SQL, Power BI",19500,234000
+JOB173,Data Analyst,Johannesburg,Hybrid,1-2 years,Degree,"Excel, SQL, Power BI",21000,252000
+JOB174,Junior Software Developer,Johannesburg,On-site,0-1 years,Degree,"Python, Git, SQL",15000,180000
+JOB175,BI Analyst,Cape Town,On-site,3-5 years,Degree,"Power BI, SQL, Excel",21500,258000
+JOB176,Junior Software Developer,Remote,Remote,3-5 years,Degree,"Python, Git, SQL",26000,312000
+JOB177,Business Analyst,Pretoria,On-site,1-2 years,Diploma,"Excel, SQL, Requirements Analysis",20500,246000
+JOB178,IT Support Technician,Johannesburg,Hybrid,0-1 years,Certificate,"Windows, Networking, Active Directory",12000,144000
+JOB179,Business Analyst,Pretoria,Hybrid,1-2 years,Diploma,"Excel, SQL, Requirements Analysis",21000,252000
+JOB180,Systems Analyst,Pretoria,Hybrid,1-2 years,Diploma,"SQL, Systems Analysis, Excel",17500,210000
