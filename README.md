@@ -80,3 +80,16 @@ The dataset used in this portfolio project is **synthetic** and was created for 
 **Wayne98469**
 
 Data Analytics Portfolio Project — 2026
+## 📊 Dashboard Visualizations
+
+### 1. Technology Role Demand
+![Technology Role Demand](dashboard_01_role_demand.png)
+
+### 2. Salary by Role
+![Salary by Role](dashboard_02_salary_by_role.png)
+
+### 3. Job Locations
+![Job Locations](dashboard_03_location.png)
+
+### 4. Work Arrangement
+![Work Arrangement](dashboard_04_work_type.png)
